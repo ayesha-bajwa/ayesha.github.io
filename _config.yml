@@ -7,4 +7,4 @@ logo:
 # better with square images
 external-image: true
 picture: assets/images/Ayesha.jpeg
-remote_theme: https://sergiokopplin.github.io/indigo/
+theme: jekyll-theme-indigo
