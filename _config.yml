@@ -5,6 +5,6 @@ logo:
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
-picture: assets/images/Ayesha.jpeg
+#external-image: true
+#picture: assets/images/Ayesha.jpeg
 theme: jekyll-theme-indigo
